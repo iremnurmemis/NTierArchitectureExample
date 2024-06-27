@@ -1,0 +1,373 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C68AB17-FCAE-4155-8BE5-A8F0C4FE71B4}|Core\\Core.csproj|c:\\users\\ahmet kahveci\\desktop\\tasks\\solution1\\core\\crosscuttingconcerns\\validation\\validationtool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C68AB17-FCAE-4155-8BE5-A8F0C4FE71B4}|Core\\Core.csproj|solutionrelative:core\\crosscuttingconcerns\\validation\\validationtool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE0BA66-B815-47C2-9FF2-54CC9B848F12}|Business\\Business.csproj|C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\business\\dependencyresolvers\\autofac\\autofacbusinessmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE0BA66-B815-47C2-9FF2-54CC9B848F12}|Business\\Business.csproj|solutionrelative:business\\dependencyresolvers\\autofac\\autofacbusinessmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE0BA66-B815-47C2-9FF2-54CC9B848F12}|Business\\Business.csproj|C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\business\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE0BA66-B815-47C2-9FF2-54CC9B848F12}|Business\\Business.csproj|solutionrelative:business\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE0BA66-B815-47C2-9FF2-54CC9B848F12}|Business\\Business.csproj|C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\business\\validationrules\\fluentvalidation\\productvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE0BA66-B815-47C2-9FF2-54CC9B848F12}|Business\\Business.csproj|solutionrelative:business\\validationrules\\fluentvalidation\\productvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C68AB17-FCAE-4155-8BE5-A8F0C4FE71B4}|Core\\Core.csproj|C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\core\\aspects\\autofac\\validation\\validationaspect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C68AB17-FCAE-4155-8BE5-A8F0C4FE71B4}|Core\\Core.csproj|solutionrelative:core\\aspects\\autofac\\validation\\validationaspect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C68AB17-FCAE-4155-8BE5-A8F0C4FE71B4}|Core\\Core.csproj|C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\core\\utilities\\interceptors\\methodinterception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C68AB17-FCAE-4155-8BE5-A8F0C4FE71B4}|Core\\Core.csproj|solutionrelative:core\\utilities\\interceptors\\methodinterception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C68AB17-FCAE-4155-8BE5-A8F0C4FE71B4}|Core\\Core.csproj|C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\core\\utilities\\interceptors\\methodinterceptionbaseattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C68AB17-FCAE-4155-8BE5-A8F0C4FE71B4}|Core\\Core.csproj|solutionrelative:core\\utilities\\interceptors\\methodinterceptionbaseattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C68AB17-FCAE-4155-8BE5-A8F0C4FE71B4}|Core\\Core.csproj|C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\core\\utilities\\interceptors\\aspectinterceptorselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C68AB17-FCAE-4155-8BE5-A8F0C4FE71B4}|Core\\Core.csproj|solutionrelative:core\\utilities\\interceptors\\aspectinterceptorselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE0BA66-B815-47C2-9FF2-54CC9B848F12}|Business\\Business.csproj|C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\business\\concrete\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE0BA66-B815-47C2-9FF2-54CC9B848F12}|Business\\Business.csproj|solutionrelative:business\\concrete\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7858FA35-E7FD-44FA-B708-EAF0800F6DC3}|WebAPI\\WebAPI.csproj|C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7858FA35-E7FD-44FA-B708-EAF0800F6DC3}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B68F11-3A4D-41B7-BB36-4344F40FFA73}|ConsoleUI\\ConsoleUI.csproj|C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B68F11-3A4D-41B7-BB36-4344F40FFA73}|ConsoleUI\\ConsoleUI.csproj|solutionrelative:consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE0BA66-B815-47C2-9FF2-54CC9B848F12}|Business\\Business.csproj|C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\business\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE0BA66-B815-47C2-9FF2-54CC9B848F12}|Business\\Business.csproj|solutionrelative:business\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE0BA66-B815-47C2-9FF2-54CC9B848F12}|Business\\Business.csproj|C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\business\\abstract\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE0BA66-B815-47C2-9FF2-54CC9B848F12}|Business\\Business.csproj|solutionrelative:business\\abstract\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE0BA66-B815-47C2-9FF2-54CC9B848F12}|Business\\Business.csproj|C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\business\\constant\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE0BA66-B815-47C2-9FF2-54CC9B848F12}|Business\\Business.csproj|solutionrelative:business\\constant\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7D8AC9-403E-4B02-B74B-63CE141ADE58}|DataAccess\\DataAccess.csproj|C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\dataaccess\\concrete\\efproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7D8AC9-403E-4B02-B74B-63CE141ADE58}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\efproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7D8AC9-403E-4B02-B74B-63CE141ADE58}|DataAccess\\DataAccess.csproj|C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\dataaccess\\concrete\\eforderdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7D8AC9-403E-4B02-B74B-63CE141ADE58}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\eforderdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7D8AC9-403E-4B02-B74B-63CE141ADE58}|DataAccess\\DataAccess.csproj|C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\dataaccess\\abstract\\iorderdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7D8AC9-403E-4B02-B74B-63CE141ADE58}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\abstract\\iorderdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7D8AC9-403E-4B02-B74B-63CE141ADE58}|DataAccess\\DataAccess.csproj|C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\dataaccess\\abstract\\iproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7D8AC9-403E-4B02-B74B-63CE141ADE58}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\abstract\\iproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7D8AC9-403E-4B02-B74B-63CE141ADE58}|DataAccess\\DataAccess.csproj|C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\dataaccess\\abstract\\icategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7D8AC9-403E-4B02-B74B-63CE141ADE58}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\abstract\\icategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE1FF43-019D-416B-8EF2-97C45CF421BF}|Entities\\Entities.csproj|C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\entities\\entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2EE1FF43-019D-416B-8EF2-97C45CF421BF}|Entities\\Entities.csproj|solutionrelative:entities\\entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7D8AC9-403E-4B02-B74B-63CE141ADE58}|DataAccess\\DataAccess.csproj|C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\dataaccess\\concrete\\efcategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7D8AC9-403E-4B02-B74B-63CE141ADE58}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\efcategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE1FF43-019D-416B-8EF2-97C45CF421BF}|Entities\\Entities.csproj|C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\entities\\concrete\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE1FF43-019D-416B-8EF2-97C45CF421BF}|Entities\\Entities.csproj|solutionrelative:entities\\concrete\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MethodInterception.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\Core\\Utilities\\Interceptors\\MethodInterception.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Interceptors\\MethodInterception.cs",
+              "ToolTip": "C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\Core\\Utilities\\Interceptors\\MethodInterception.cs",
+              "RelativeToolTip": "Core\\Utilities\\Interceptors\\MethodInterception.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T15:28:58.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ValidationAspect.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\Core\\Aspects\\Autofac\\Validation\\ValidationAspect.cs",
+              "RelativeDocumentMoniker": "Core\\Aspects\\Autofac\\Validation\\ValidationAspect.cs",
+              "ToolTip": "C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\Core\\Aspects\\Autofac\\Validation\\ValidationAspect.cs",
+              "RelativeToolTip": "Core\\Aspects\\Autofac\\Validation\\ValidationAspect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T15:33:10.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MethodInterceptionBaseAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\Core\\Utilities\\Interceptors\\MethodInterceptionBaseAttribute.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Interceptors\\MethodInterceptionBaseAttribute.cs",
+              "ToolTip": "C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\Core\\Utilities\\Interceptors\\MethodInterceptionBaseAttribute.cs",
+              "RelativeToolTip": "Core\\Utilities\\Interceptors\\MethodInterceptionBaseAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T15:28:55.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AspectInterceptorSelector.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\Core\\Utilities\\Interceptors\\AspectInterceptorSelector.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Interceptors\\AspectInterceptorSelector.cs",
+              "ToolTip": "C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\Core\\Utilities\\Interceptors\\AspectInterceptorSelector.cs",
+              "RelativeToolTip": "Core\\Utilities\\Interceptors\\AspectInterceptorSelector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T11:59:51.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValidationTool.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\Core\\CrossCuttingConcerns\\Validation\\ValidationTool.cs",
+              "RelativeDocumentMoniker": "Core\\CrossCuttingConcerns\\Validation\\ValidationTool.cs",
+              "ToolTip": "C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\Core\\CrossCuttingConcerns\\Validation\\ValidationTool.cs",
+              "RelativeToolTip": "Core\\CrossCuttingConcerns\\Validation\\ValidationTool.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T10:19:11.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\Business\\ValidationRules\\FluentValidation\\ProductValidator.cs",
+              "RelativeDocumentMoniker": "Business\\ValidationRules\\FluentValidation\\ProductValidator.cs",
+              "ToolTip": "C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\Business\\ValidationRules\\FluentValidation\\ProductValidator.cs",
+              "RelativeToolTip": "Business\\ValidationRules\\FluentValidation\\ProductValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:39:29.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\Business\\Concrete\\ProductManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\Business\\Concrete\\ProductManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\ProductManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:49:24.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutofacBusinessModule.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
+              "RelativeDocumentMoniker": "Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
+              "ToolTip": "C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
+              "RelativeToolTip": "Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:03:44.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Entities.csproj",
+              "DocumentMoniker": "C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\Entities\\Entities.csproj",
+              "RelativeDocumentMoniker": "Entities\\Entities.csproj",
+              "ToolTip": "C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\Entities\\Entities.csproj",
+              "RelativeToolTip": "Entities\\Entities.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-15T12:37:14.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EfOrderDal.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\DataAccess\\Concrete\\EfOrderDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concrete\\EfOrderDal.cs",
+              "ToolTip": "C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\DataAccess\\Concrete\\EfOrderDal.cs",
+              "RelativeToolTip": "DataAccess\\Concrete\\EfOrderDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:08:12.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EfProductDal.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\DataAccess\\Concrete\\EfProductDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concrete\\EfProductDal.cs",
+              "ToolTip": "C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\DataAccess\\Concrete\\EfProductDal.cs",
+              "RelativeToolTip": "DataAccess\\Concrete\\EfProductDal.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:08:13.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\Business\\Abstract\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\Business\\Abstract\\ICategoryService.cs",
+              "RelativeToolTip": "Business\\Abstract\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T11:14:07.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EfCategoryDal.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\DataAccess\\Concrete\\EfCategoryDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concrete\\EfCategoryDal.cs",
+              "ToolTip": "C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\DataAccess\\Concrete\\EfCategoryDal.cs",
+              "RelativeToolTip": "DataAccess\\Concrete\\EfCategoryDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T11:13:40.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IProductDal.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\DataAccess\\Abstract\\IProductDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Abstract\\IProductDal.cs",
+              "ToolTip": "C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\DataAccess\\Abstract\\IProductDal.cs",
+              "RelativeToolTip": "DataAccess\\Abstract\\IProductDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T11:13:29.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\Business\\Concrete\\CategoryManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\CategoryManager.cs",
+              "ToolTip": "C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\Business\\Concrete\\CategoryManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\CategoryManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:09:09.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:24:41.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\Business\\Abstract\\IProductService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\Business\\Abstract\\IProductService.cs",
+              "RelativeToolTip": "Business\\Abstract\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:08:48.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IOrderDal.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\DataAccess\\Abstract\\IOrderDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Abstract\\IOrderDal.cs",
+              "ToolTip": "C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\DataAccess\\Abstract\\IOrderDal.cs",
+              "RelativeToolTip": "DataAccess\\Abstract\\IOrderDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T11:13:26.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ICategoryDal.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\DataAccess\\Abstract\\ICategoryDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Abstract\\ICategoryDal.cs",
+              "ToolTip": "C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\DataAccess\\Abstract\\ICategoryDal.cs",
+              "RelativeToolTip": "DataAccess\\Abstract\\ICategoryDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T11:13:23.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\ConsoleUI\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleUI\\Program.cs",
+              "ToolTip": "C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\ConsoleUI\\Program.cs",
+              "RelativeToolTip": "ConsoleUI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T06:33:05.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Messages.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\Business\\Constant\\Messages.cs",
+              "RelativeDocumentMoniker": "Business\\Constant\\Messages.cs",
+              "ToolTip": "C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\Business\\Constant\\Messages.cs",
+              "RelativeToolTip": "Business\\Constant\\Messages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:57:14.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\Entities\\Concrete\\Product.cs",
+              "RelativeDocumentMoniker": "Entities\\Concrete\\Product.cs",
+              "ToolTip": "C:\\Users\\Ahmet Kahveci\\Desktop\\Tasks\\Solution1\\Entities\\Concrete\\Product.cs",
+              "RelativeToolTip": "Entities\\Concrete\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T11:13:01.383Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
